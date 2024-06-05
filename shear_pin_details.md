@@ -44,5 +44,3 @@ Using the "minimum shear strength" column, three 4-40 screws are adequate to wit
 Shear pins/screws should be equally positioned around the circumference of the rocket. Never use just one pin, because the coupler may cock and bind.
 
 When using screws, don't tap both the body and the coupler and cause premature shearing. The slight threading mismatch will add stress to the screw. Tapping the body tube only makes removal of the sheared screw easy and does not stress the screw.
-
-If you have suggestions or comments on the research, please contact us by going to [RAF Research Contact](http://www.rafresearch.com/contact.html).
