@@ -25,9 +25,10 @@ Ground testing should start at the low end of the recommended range to prevent d
 
 Set parameters in the script.
 
-## Calculation
+## Calculations 
+### Black Powder Calculation
 
-Pressure is set by desired force, or force can be set by specifying the desired pressure. This is based on the force applied to the area at the end of the volume to be pressurized.
+Pressure is set by desired force, or force can be set by specifying the desired pressure. This is based on the force applied to the area at the end of the volume to be pressurized.*See the next section for how to use the shear screw calculation function for determining the required ejection force and minimum shear pin / screw specifications to withstand flight*.
 
 $P = \frac{F}{\pi \left( \frac{D}{2} \right)^2}$
 
@@ -47,6 +48,8 @@ where
 - $R_c = 12.1579\, \frac{m}{K}$, combustion gas constant for FFFFg black powder
 - $T = 1739\, K$, combustion gas temperature
 - $g = 9.807\, \frac{m}{s^2}$, acceleration due to gravity
+
+
 
 ### Units
 
