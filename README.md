@@ -1,5 +1,6 @@
 # eChargeSCAD
-OpenSCAD script for the calculation and generation of ejection charges
+
+OpenSCAD script for the calculation and generation of ejection charges, read the [disclaimer](DISCLAIMER.md) before getting started.
 
 ## Description
 
